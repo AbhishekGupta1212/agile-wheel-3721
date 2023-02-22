@@ -1,6 +1,6 @@
 import { Image } from "@chakra-ui/react";
-import Footer from "./Footer";
-import Navbar from "./Navbar";
+import Footer from "../Components/Footer";
+import Navbar from "../Components/Navbar";
 function Homepage(){
  return (
    <div>

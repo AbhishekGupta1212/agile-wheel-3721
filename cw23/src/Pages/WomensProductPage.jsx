@@ -1,6 +1,7 @@
 import { Card, CardBody,Image,Text ,Img} from "@chakra-ui/react"
 import { useReducer , useEffect } from "react";
 import axios from 'axios'
+import Navbar from "../Components/Navbar";
 const initialState = {
     data: [],
     isLoading: false,
@@ -35,15 +36,15 @@ const initialState = {
      
 
 
-function Mens(){
-
+function Womens(){
+ 
     const [state,dispatch]=useReducer(reducer,initialState)
     const{data}=state
 
     const getData=()=>{
         dispatch({type:"Request"})
 
-        axios.get("http://localhost:4040/mens-products").then((res)=>{
+        axios.get("http://localhost:4040/Women-products").then((res)=>{
           dispatch({type:"Success" ,payload:res.data})
       
         console.log(res)
@@ -59,6 +60,7 @@ function Mens(){
 
     return (
         <div>
+           <Navbar/>
             <Card>
                 {data.map((el)=>(
  <CardBody key={el.id}>
@@ -73,4 +75,4 @@ function Mens(){
     )
 
 }
-export default Mens
+export default Womens

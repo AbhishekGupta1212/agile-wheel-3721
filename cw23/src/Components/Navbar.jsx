@@ -1,7 +1,10 @@
 import { Box, Button, Flex , useColorModeValue,Divider, Stack,StackDivider,IconButton,Image, Circle, Spacer, color, Input ,InputRightElement, InputGroup ,Icon} from '@chakra-ui/react'
-import {Search2Icon} from '@chakra-ui/icons'
+import { Link } from 'react-router-dom';
+import Search from './Search';
 
 function Navbar(){
+
+               
     return (
         <div id='Navbar'>
             <div className="Navbar-top">
@@ -36,32 +39,37 @@ function Navbar(){
     <Box bg='#2d2d2d'
 color='#FFFFFF'>
         <Flex 
-
 h='60px'
 m={'auto'}
 align={'center'} 
-px={{ base: 4 }}
-        >
-<Box>
-    <Button></Button>
+px={{ base: 4 }}>
+
+<Link to='/' _hover={'pointer'}>
+<Box >
+    <Image src={process.env.PUBLIC_URL +'/Images/Meta-Trends.png'} h='80px' objectFit={'fill'} />
 </Box>
+</Link>
+
+<Link to='/WomensLandingPage'>
 <Box>
     <Button bg={'#2d2d2d'} borderLeft={'1px'} borderRight={'1px'} borderColor='gray.200' variant={'unstyled'} h='60px' px={'40px'} borderRadius='none' fontWeight='900' fontFamily='futura-pt,sans-serif' fontSize={'14px'}  letterSpacing='2px' _hover={{bg:'#474747'}}>WOMEN</Button>
 </Box>
+</Link>
+
+
+    <Link to='/MensLandingPage'> 
 <Box>
     <Button bg={'#2d2d2d'} borderColor={'gray.200 '} borderRight={'1px'} variant={'unstyled'} h='60px' px={'40px'} borderRadius='none' fontWeight='900' fontFamily='futura-pt,sans-serif' fontSize={'14px'} letterSpacing='2px' _hover={{bg:'#474747'}}>MEN</Button>
-</Box>
+</Box> 
+</Link>
 
-<Box ml={'35px'} >
-    <InputGroup>
-       <Input placeholder='Seach for items and brands' bg={'FFFFFF'} htmlSize={95} borderRadius='30px' color={'black'}/>
-    <InputRightElement children={<Search2Icon color={'black'}/>} />
-    </InputGroup>
- 
-</Box>
+
+
+<Search/>
+
 {/* <Spacer/> */}
 <Box mr={'10px'} ml={'25px'}>
-    <IconButton bg={'#2d2d2d'} variant='unstyled' ><Image src={process.env.PUBLIC_URL +'/Images/user.png'} boxSize='20px' /></IconButton>
+    <IconButton bg={'#2d2d2d'} variant='unstyled' onCl><Image src={process.env.PUBLIC_URL +'/Images/user.png'} boxSize='20px' /></IconButton>
 </Box>
 <Box mr={'10px'}>
     <IconButton bg={'#2d2d2d'} variant='unstyled'><Image src={process.env.PUBLIC_URL +'/Images/love.png'} boxSize='20px'/></IconButton>
@@ -69,6 +77,7 @@ px={{ base: 4 }}
 <Box>
     <IconButton bg={'#2d2d2d'} variant='unstyled'><Image src={process.env.PUBLIC_URL +'/Images/shopping-bag.png'} boxSize='20px'/></IconButton>
 </Box>
+
 
         </Flex>
     </Box>
@@ -79,4 +88,5 @@ px={{ base: 4 }}
  </div>
     )
 }
+
 export default Navbar

@@ -1,6 +1,7 @@
 import { Card, CardBody,Image,Text ,Img} from "@chakra-ui/react"
 import { useReducer , useEffect } from "react";
 import axios from 'axios'
+
 const initialState = {
     data: [],
     isLoading: false,
@@ -35,7 +36,7 @@ const initialState = {
      
 
 
-function Womens(){
+function Mens(){
 
     const [state,dispatch]=useReducer(reducer,initialState)
     const{data}=state
@@ -43,7 +44,7 @@ function Womens(){
     const getData=()=>{
         dispatch({type:"Request"})
 
-        axios.get("http://localhost:4040/Women-products").then((res)=>{
+        axios.get("http://localhost:4040/mens-products").then((res)=>{
           dispatch({type:"Success" ,payload:res.data})
       
         console.log(res)
@@ -57,9 +58,13 @@ function Womens(){
         },[])
         console.log(data)
 
+        const SingleProduct=(id)=>{
+          window.location.href=''
+        }
+
     return (
         <div>
-            <Card>
+            <Card onClick={SingleProduct}>
                 {data.map((el)=>(
  <CardBody key={el.id}>
     <Img src={el.imageUrl}/>
@@ -73,4 +78,4 @@ function Womens(){
     )
 
 }
-export default Womens
+export default Mens
