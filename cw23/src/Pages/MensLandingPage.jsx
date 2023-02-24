@@ -1,6 +1,7 @@
 import Navbar from "../Components/Navbar"
 import { Box, Grid, GridItem, Image ,Text} from "@chakra-ui/react"
-import { Navigate, useNavigate } from "react-router-dom"
+import {useNavigate } from "react-router-dom"
+import Footer from "../Components/Footer"
 
 function MensLandingPage(){
     const navigate=useNavigate()
@@ -8,10 +9,11 @@ function MensLandingPage(){
 
     
     return (
-        <div>
+        <div id="main">
+          {/* Top to Middle of the Page includes navbar & offer */}
               <Navbar/>
-              {/* <Image src={process.env.PUBLIC_URL +'/Images/OfferPoster.jpeg'}/> */}
-              <Box bg={'#FF385C'} h='200px' mb={'20px'} px='24px' my={'24px'} onClick={handleClick} _hover={'pointer'}>
+        
+              <Box bg={'#FF385C'} h='200px' mb={'20px'} px='24px' my={'24px'} >
                 <Text fontSize={'38px'} fontFamily='futura-pt,FuturaStd,Helvetica,Arial,sans-serif' fontWeight={'1000'} lineHeight='48px'  fontStyle='italic' >
                     UP TO 50% OFF
                 </Text>
@@ -21,9 +23,11 @@ function MensLandingPage(){
                 <Text fontSize={'32px'} fontFamily='futura-pt,FuturaStd,Helvetica,Arial,sans-serif' fontWeight={'900'} letterSpacing={'1.5px'} fontStyle='italic'>COATS,HOODIES AND MORE</Text>
                 <Text fontSize={'10px'} fontFamily='futura-pt,FuturaStd,Helvetica,Arial,sans-serif' fontWeight={'400'} lineHeight='16px' letterSpacing={'.8px'} px='.1em' py={' .37em'} >Limited time only. Selected styles marked down as shown</Text>
               </Box>
-              <Image src={process.env.PUBLIC_URL +'/Images/mensPosterL.jpg'} m='auto'mb={'30px'}/>
+{/* Mid of the page contains different cards and slider */}
+
+              <Image src={process.env.PUBLIC_URL +'/Images/mensPosterL.jpg'} m='auto'mb={'30px'} onClick={handleClick} _hover={{cursor:'pointer'}}/>
               
-              <Grid templateColumns='repeat(4,3fr)' gap={8} mt='20px' w={'90%'} m='auto' fontFamily='futura-pt,FuturaStd,Helvetica,Arial,sans-serif'>
+              <Grid templateColumns='repeat(4,3fr)' gap={8} w={'90%'} m='auto' fontFamily='futura-pt,FuturaStd,Helvetica,Arial,sans-serif'>
             <GridItem ><Image src={process.env.PUBLIC_URL +'/Images/ImageMen/mw_global_new_szn_trousers_moment_870x1110.webp'} mb='8px'/>
             <Text fontSize={'18px'} mb='8px'>NEW PANTS</Text>
             <Text fontSize={'17px'}>Incl. on-trend cargos, ofc</Text>
@@ -41,6 +45,8 @@ function MensLandingPage(){
             <Text fontSize={'17px'}>Bold moves</Text>
             </GridItem>
               </Grid>
+
+              <Footer/>
               
         </div>
       

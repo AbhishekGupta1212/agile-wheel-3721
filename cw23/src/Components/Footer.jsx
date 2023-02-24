@@ -10,33 +10,59 @@ import {
   chakra,
   useColorModeValue,
   Image,
-  Circle
+  Circle,
+  Icon,
+  Divider
 
 } from '@chakra-ui/react';
-// import { FaTwitter, FaYoutube, FaInstagram } from 'react-icons/fa';
+import { FaInstagram, FaFacebook,  FaSnapchatGhost ,FaCcVisa, FaCcMastercard, FaPaypal, FaCcPaypal, FaCcApplePay} from 'react-icons/fa';
 
 function Footer(){
 return (
     <div>
 
-    {/* <chakra.button
-      bg={useColorModeValue('blackAlpha.100', 'whiteAlpha.100')}
-      rounded={'full'}
-      w={8}
-      h={8}
-      cursor={'pointer'}
-      as={'a'}
-      display={'inline-flex'}
-      alignItems={'center'}
-      justifyContent={'center'}
-      transition={'background 0.3s ease'}
-      _hover={{
-        bg: useColorModeValue('blackAlpha.200', 'whiteAlpha.200'),
-      }}>
-    </chakra.button> */}
- 
-<div>
-    <h3>SOCILA</h3>
+<div style={{marginTop:10}}>
+  <Divider/>
+<Box
+      bg={useColorModeValue('white')}
+      color={useColorModeValue( )}
+      >
+      <Container
+        as={Stack}
+        maxW={'6xl'}
+        py={4}
+        direction={{ base: 'column', md: 'row' }}
+        spacing={4}
+        justify={{ base: 'center' }}
+        align={{ base: 'center', md: 'center' }}>
+       
+        <Stack direction={'row'} spacing={6}>
+          <Icon label={'Facebook'} href={'#'} boxSize='30px'>
+            <FaFacebook />
+          </Icon>
+          <Icon label={'SnapChat'} href={'#'} boxSize='30px'>
+            <FaSnapchatGhost />
+          </Icon>
+          <Icon label={'Instagram'} href={'#'} boxSize='30px'>
+            <FaInstagram />
+          </Icon>
+          <Box bg={'black'} h='25px' w={'1px'}></Box>
+<Icon label={'Visa'} href={'#'} boxSize='32px'>
+  <FaCcVisa/>
+</Icon>
+<Icon label={'MasterCard'} href={'#'} boxSize='32px'>
+  <FaCcMastercard/>
+</Icon>
+<Icon label={'PayPal'} href={'#'} boxSize='32px'>
+  <FaCcPaypal/>
+</Icon>
+<Icon label={'ApplePay'} href={'#'} boxSize='32px'>
+  <FaCcApplePay/>
+</Icon>
+        </Stack>
+        
+      </Container>
+    </Box>
 </div>
 
 

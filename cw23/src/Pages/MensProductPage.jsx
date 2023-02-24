@@ -1,6 +1,10 @@
-import { Card, CardBody,Image,Text ,Img} from "@chakra-ui/react"
+import { Card, CardBody,Image,Text ,Img,Grid} from "@chakra-ui/react"
 import { useReducer , useEffect } from "react";
 import axios from 'axios'
+import Navbar from "../Components/Navbar";
+import Footer from "../Components/Footer";
+import Render from "../Utils/Render";
+import { useNavigate } from "react-router-dom";
 
 const initialState = {
     data: [],
@@ -34,9 +38,12 @@ const initialState = {
     }
     };
      
-
+   
 
 function Mens(){
+
+  const navigate=useNavigate()
+   const handleClick=(id)=>navigate(`/MensProductPage/${id}`)
 
     const [state,dispatch]=useReducer(reducer,initialState)
     const{data}=state
@@ -44,7 +51,7 @@ function Mens(){
     const getData=()=>{
         dispatch({type:"Request"})
 
-        axios.get("http://localhost:4040/mens-products").then((res)=>{
+        axios.get("http://localhost:4040/mens-products?_limit=15").then((res)=>{
           dispatch({type:"Success" ,payload:res.data})
       
         console.log(res)
@@ -58,22 +65,26 @@ function Mens(){
         },[])
         console.log(data)
 
-        const SingleProduct=(id)=>{
-          window.location.href=''
-        }
-
     return (
-        <div>
-            <Card onClick={SingleProduct}>
-                {data.map((el)=>(
- <CardBody key={el.id}>
-    <Img src={el.imageUrl}/>
-    <Text>{el.name}</Text>
-    <Text>{el.price.current.text}</Text>
-                </CardBody>
-                ))}
-               
-            </Card>
+        <div id="MensProductsMain">
+          <Navbar/>
+         <Grid templateColumns='repeat(4,1fr)' gap={6} m={'auto'}>
+             
+             {data.map((el)=>(
+              <div key={el.id} onClick={()=>handleClick(el.id)}>
+                 <Render
+ imageUrl={el.imageUrl}
+ name={el.name}
+ price={el.price.current.text}
+ />
+              </div>
+
+           
+             ))}
+            
+         
+         </Grid>
+         <Footer/>
         </div>
     )
 

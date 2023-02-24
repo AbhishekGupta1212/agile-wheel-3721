@@ -1,7 +1,10 @@
-import { Card, CardBody,Image,Text ,Img} from "@chakra-ui/react"
+import { Card, CardBody,Image,Text ,Img, Grid} from "@chakra-ui/react"
 import { useReducer , useEffect } from "react";
 import axios from 'axios'
 import Navbar from "../Components/Navbar";
+import Render from "../Utils/Render";
+import Footer from "../Components/Footer";
+import { useNavigate } from "react-router-dom";
 const initialState = {
     data: [],
     isLoading: false,
@@ -38,13 +41,16 @@ const initialState = {
 
 function Womens(){
  
+  const navigate=useNavigate()
+  const handleClick=(id,gender)=>navigate(`/WomensProduct/${id}`)
+
     const [state,dispatch]=useReducer(reducer,initialState)
     const{data}=state
 
     const getData=()=>{
         dispatch({type:"Request"})
 
-        axios.get("http://localhost:4040/Women-products").then((res)=>{
+        axios.get("http://localhost:4040/women-products?_limit=15").then((res)=>{
           dispatch({type:"Success" ,payload:res.data})
       
         console.log(res)
@@ -59,20 +65,25 @@ function Womens(){
         console.log(data)
 
     return (
-        <div>
+        <div id="WomenProductsmain">
            <Navbar/>
-            <Card>
+           <Grid templateColumns='repeat(4,1fr)' gap={6} m={'auto'}>
+             
                 {data.map((el)=>(
- <CardBody key={el.id}>
-    <Img src={el.imageUrl}/>
-    <Text>{el.name}</Text>
-    <Text>{el.price.current.text}</Text>
-                </CardBody>
+                  <div key={el.id} onClick={()=>handleClick(el.id)}>
+                     <Render
+    imageUrl={el.imageUrl}
+    name={el.name}
+    price={el.price.current.text}
+    />
+                  </div>
                 ))}
-               
-            </Card>
+                </Grid>
+            <Footer/>
         </div>
+        
     )
+
 
 }
 export default Womens

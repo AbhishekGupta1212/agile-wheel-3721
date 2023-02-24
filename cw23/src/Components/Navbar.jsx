@@ -1,9 +1,16 @@
-import { Box, Button, Flex , useColorModeValue,Divider, Stack,StackDivider,IconButton,Image, Circle, Spacer, color, Input ,InputRightElement, InputGroup ,Icon} from '@chakra-ui/react'
+import { Box, Button, Flex , useColorModeValue,IconButton,Image, Circle, Spacer, Menu, MenuList, MenuItem, } from '@chakra-ui/react'
 import { Link } from 'react-router-dom';
 import Search from './Search';
+import { useDisclosure } from '@chakra-ui/react';
+import DropDown from '../Utils/DropDownMenu';
 
 function Navbar(){
+//     const handleClick=()=>{ 
+//    <DropDown/>
+ 
 
+//     console.log("clicked")
+//     }
                
     return (
         <div id='Navbar'>
@@ -68,9 +75,21 @@ px={{ base: 4 }}>
 <Search/>
 
 {/* <Spacer/> */}
-<Box mr={'10px'} ml={'25px'}>
-    <IconButton bg={'#2d2d2d'} variant='unstyled' onCl><Image src={process.env.PUBLIC_URL +'/Images/user.png'} boxSize='20px' /></IconButton>
+{/* <Menu> */}
+    <Box mr={'10px'} ml={'25px'}>
+    <IconButton bg={'#2d2d2d'} variant='unstyled' 
+       onMouseEnter={<DropDown/>}     ><Image src={process.env.PUBLIC_URL +'/Images/user.png'} boxSize='20px' /></IconButton>
+
+{/* <MenuList>
+    <MenuItem>1</MenuItem>
+    <MenuItem>2</MenuItem>
+    <MenuItem>3</MenuItem>
+    <MenuItem>4</MenuItem>
+</MenuList> */}
+
 </Box>
+{/* </Menu> */}
+
 <Box mr={'10px'}>
     <IconButton bg={'#2d2d2d'} variant='unstyled'><Image src={process.env.PUBLIC_URL +'/Images/love.png'} boxSize='20px'/></IconButton>
 </Box>
