@@ -4,27 +4,12 @@
     {
     "id": 203034736,
     "name": "MetaTrends DESIGN mandarin collar flared satin mini dress in rose",
-    "price": {
-    "current": {
-    "value": 58,
-    "text": "$58.00"
-    },
     
-    "previous": {
+
+  
+    "price": 58.0,
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
-    
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
     "colour": "PINK",
     "colourWayId": 203034758,
     "brandName": "MetaTrends DESIGN",
@@ -50,28 +35,14 @@
     "id": 202450748,
     "name": "COLLUSION check blazer - MULTI - part of a set",
     
-    "price": {
     
-    "current": {
-    "value": 75.9,
-    "text": "$75.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 75.9,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+  
     "colour": "Multi",
     "colourWayId": 202450749,
     "brandName": "Collusion",
@@ -99,28 +70,14 @@
     "id": 204053246,
     "name": "MetaTrends DESIGN Petite washed off shoulder balloon slv mini dress ",
     
-    "price": {
     
-    "current": {
-    "value": 95,
-    "text": "$95.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 95.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Sage",
     "colourWayId": 204053247,
     "brandName": "MetaTrends Petite",
@@ -146,28 +103,14 @@
     "id": 140983,
     "name": "River Island ruched sleeve blazer and pants set in pink",
     
-    "price": {
     
-    "current": {
-    "value": 195,
-    "text": "$195.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 195,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "PINK",
     "colourWayId": 204695043,
     "brandName": "River Island",
@@ -193,28 +136,14 @@
     "id": 204695060,
     "name": "River Island wide leg dad pants in pink - part of a set",
     
-    "price": {
     
-    "current": {
-    "value": 75,
-    "text": "$75.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 75.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "PINK",
     "colourWayId": 204695062,
     "brandName": "River Island",
@@ -239,28 +168,14 @@
     "id": 204606133,
     "name": "Stradivarius seamless one shoulder top in black",
     
-    "price": {
     
-    "current": {
-    "value": 22.9,
-    "text": "$22.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 22.9,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204606141,
     "brandName": "Stradivarius",
@@ -287,28 +202,14 @@
     "id": 204494951,
     "name": "Vila Curve linen touch tie waist wide leg pants in white",
     
-    "price": {
     
-    "current": {
-    "value": 66,
-    "text": "$66.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 66.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "WHITE",
     "colourWayId": 204494952,
     "brandName": "Vila Curve",
@@ -334,28 +235,14 @@
     "id": 204395818,
     "name": "Bershka cropped boxy shirt in blue pinstipe",
     
-    "price": {
     
-    "current": {
-    "value": 35.9,
-    "text": "$35.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 35.9,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Blue stripe",
     "colourWayId": 204395820,
     "brandName": "Bershka",
@@ -381,28 +268,14 @@
     "id": 203930004,
     "name": "adidas Originals Trefoil flared pants in navy",
     
-    "price": {
     
-    "current": {
-    "value": 65,
-    "text": "$65.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 65.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "NAVY",
     "colourWayId": 203930089,
     "brandName": "adidas Originals",
@@ -428,28 +301,14 @@
     "id": 203699511,
     "name": "Cotton:On Maternity satin midi skirt in black",
     
-    "price": {
     
-    "current": {
-    "value": 49.99,
-    "text": "$49.99"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+
+    "price": 499,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 203699512,
     "brandName": "Cotton:On",
@@ -476,28 +335,14 @@
     "id": 201009709,
     "name": "Lipsy ruched sleeve fluted hem midi dress in purple",
     
-    "price": {
     
-    "current": {
-    "value": 92,
-    "text": "$92.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 92.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "PURPLE",
     "colourWayId": 201009712,
     "brandName": "Lipsy",
@@ -523,28 +368,14 @@
     "id": 204163922,
     "name": "Reclaimed Vintage skort in charcoal",
     
-    "price": {
     
-    "current": {
-    "value": 45.9,
-    "text": "$45.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+
+    "price": 459,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "CHARCOAL",
     "colourWayId": 204163923,
     "brandName": "Reclaimed Vintage",
@@ -570,28 +401,14 @@
     "id": 203086994,
     "name": "MetaTrends DESIGN Maternity shirred bardot blouson midi dress in soft pink",
     
-    "price": {
     
-    "current": {
-    "value": 85,
-    "text": "$85.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 85.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Soft pink",
     "colourWayId": 203087006,
     "brandName": "MetaTrends Maternity",
@@ -618,28 +435,9 @@
     "id": 204058050,
     "name": "MetaTrends LUXE chiffon bandeau tiered mini dress in blue",
     
-    "price": {
     
-    "current": {
-    "value": 130,
-    "text": "$130.00"
-    },
-    
-    "previous": {
-    
-    "value": null,
-    "text": ""
-    },
-    
-    "rrp": {
-    
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    "price": 130,
+  
     "colour": "Blue",
     "colourWayId": 204058060,
     "brandName": "MetaTrends Luxe",
@@ -665,28 +463,14 @@
     "id": 203309677,
     "name": "Levi's dorsey western shirt in ecru",
     
-    "price": {
     
-    "current": {
-    "value": 79.5,
-    "text": "$79.50"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 79.5,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "ECRU",
     "colourWayId": 203309678,
     "brandName": "Levi's",
@@ -713,28 +497,13 @@
     "id": 203608394,
     "name": "MetaTrends DESIGN dripped jewel embellished maxi dress in forest green",
     
-    "price": {
     
-    "current": {
-    "value": 285,
-    "text": "$285.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 285.0,    
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
     "colour": "Forest Green",
     "colourWayId": 203608396,
     "brandName": "MetaTrends DESIGN",
@@ -760,28 +529,14 @@
     "id": 204694317,
     "name": "River Island frill collar cardigan in lilac",
     
-    "price": {
     
-    "current": {
-    "value": 80,
-    "text": "$80.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 80.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Light Purple",
     "colourWayId": 204694318,
     "brandName": "River Island",
@@ -808,28 +563,14 @@
     "id": 204405757,
     "name": "River Island ruffle detail wrap blouse with diamante buckle in light green",
     
-    "price": {
     
-    "current": {
-    "value": 75,
-    "text": "$75.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 75.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "GREEN",
     "colourWayId": 204405759,
     "brandName": "River Island",
@@ -855,28 +596,14 @@
     "id": 204365283,
     "name": "River Island mesh ruched midi skirt in black",
     
-    "price": {
     
-    "current": {
-    "value": 55,
-    "text": "$55.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 55.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204365291,
     "brandName": "River Island",
@@ -903,28 +630,14 @@
     "id": 204335752,
     "name": "River Island pleated long sleeve mini dress in black polka dot",
     
-    "price": {
     
-    "current": {
-    "value": 85,
-    "text": "$85.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 85.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204335753,
     "brandName": "River Island",
@@ -950,28 +663,14 @@
     "id": 204323178,
     "name": "River Island wide leg dad pants in light brown - part of a set",
     
-    "price": {
     
-    "current": {
-    "value": 75,
-    "text": "$75.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 75.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Beige- dark",
     "colourWayId": 204323179,
     "brandName": "River Island",
@@ -998,28 +697,14 @@
     "id": 204292816,
     "name": "River Island utility cigarette pants in black",
     
-    "price": {
     
-    "current": {
-    "value": 80,
-    "text": "$80.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 80.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204292817,
     "brandName": "River Island",
@@ -1045,28 +730,14 @@
     "id": 204290869,
     "name": "River Island low rise parachute cargo pants in khaki",
     
-    "price": {
     
-    "current": {
-    "value": 80,
-    "text": "$80.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 80.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Khaki",
     "colourWayId": 204290870,
     "brandName": "River Island",
@@ -1092,28 +763,14 @@
     "id": 204264990,
     "name": "River Island cut out shirred maxi dress in bright pink",
     
-    "price": {
     
-    "current": {
-    "value": 70,
-    "text": "$70.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 70.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "PINK - MEDIUM",
     "colourWayId": 204264992,
     "brandName": "River Island",
@@ -1139,28 +796,14 @@
     "id": 204264954,
     "name": "River Island broderie beach romper in white",
     
-    "price": {
     
-    "current": {
-    "value": 80,
-    "text": "$80.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 80.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "WHITE",
     "colourWayId": 204264955,
     "brandName": "River Island",
@@ -1186,28 +829,14 @@
     "id": 204008155,
     "name": "River Island Plus scoop neck tank top in white",
     
-    "price": {
     
-    "current": {
-    "value": 15,
-    "text": "$15.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 15.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "WHITE",
     "colourWayId": 204008156,
     "brandName": "River Island Plus",
@@ -1234,28 +863,14 @@
     "id": 204377250,
     "name": "MetaTrends DESIGN hanky hem long sleeve slinky double strap top in ivory",
     
-    "price": {
     
-    "current": {
-    "value": 29,
-    "text": "$29.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 29.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Ivory",
     "colourWayId": 204377252,
     "brandName": "MetaTrends DESIGN",
@@ -1297,28 +912,14 @@
     "id": 204333585,
     "name": "MetaTrends DESIGN mesh halter corset detail bodysuit in white",
     
-    "price": {
     
-    "current": {
-    "value": 35,
-    "text": "$35.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 35.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "White",
     "colourWayId": 204333586,
     "brandName": "MetaTrends DESIGN",
@@ -1345,28 +946,14 @@
     "id": 204240367,
     "name": "MetaTrends DESIGN leather look racer bodysuit in black",
     
-    "price": {
     
-    "current": {
-    "value": 32,
-    "text": "$32.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 32.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204240368,
     "brandName": "MetaTrends DESIGN",
@@ -1393,28 +980,14 @@
     "id": 203152739,
     "name": "MetaTrends DESIGN square neck crop top with seam detail in black",
     
-    "price": {
     
-    "current": {
-    "value": 20,
-    "text": "$20.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 20.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 203152740,
     "brandName": "MetaTrends DESIGN",
@@ -1461,28 +1034,13 @@
     "id": 202313025,
     "name": "Lipsy Premium lace applique cami midi dress in black and white",
     
-    "price": {
     
-    "current": {
-    "value": 237,
-    "text": "$237.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 237.0,    
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "MONOCHROME",
     "colourWayId": 202313026,
     "brandName": "Lipsy",
@@ -1509,28 +1067,14 @@
     "id": 140588,
     "name": "MetaTrends DESIGN gray rib set",
     
-    "price": {
     
-    "current": {
-    "value": 32,
-    "text": "$32.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 32.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Gray Heather",
     "colourWayId": 203962830,
     "brandName": "MetaTrends DESIGN",
@@ -1556,28 +1100,13 @@
     "id": 140577,
     "name": "Vero Moda petite pinstripe cropped vest and tailored pants set in crea",
     
-    "price": {
     
-    "current": {
-    "value": 122,
-    "text": "$122.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 122.0,    
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "CREAM",
     "colourWayId": 0,
     "brandName": "Vero Moda Petite",
@@ -1603,28 +1132,14 @@
     "id": 134422,
     "name": "MetaTrends Weekend Collective denim set",
     
-    "price": {
     
-    "current": {
-    "value": 115.02,
-    "text": "$115.02"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 115.2
+ , 
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Mid blue wash",
     "colourWayId": 204280384,
     "brandName": "MetaTrends WEEKEND COLLECTIVE",
@@ -1650,28 +1165,14 @@
     "id": 204447224,
     "name": "Vero Moda Petite tailored pinstripe wide leg pants in navy - part of a set",
     
-    "price": {
     
-    "current": {
-    "value": 66,
-    "text": "$66.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 66.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Navy pinstripe",
     "colourWayId": 204447244,
     "brandName": "Vero Moda Petite",
@@ -1697,28 +1198,14 @@
     "id": 204447149,
     "name": "Vero Moda Petite tailored pinstripe wide leg pants in cream - part of a set",
     
-    "price": {
     
-    "current": {
-    "value": 66,
-    "text": "$66.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 66.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "CREAM",
     "colourWayId": 204447157,
     "brandName": "Vero Moda Petite",
@@ -1743,28 +1230,14 @@
     "id": 204447039,
     "name": "Vero Moda Tall tailored pinstripe wide leg pants in navy - part of a set",
     
-    "price": {
     
-    "current": {
-    "value": 66,
-    "text": "$66.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 66.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Navy pinstripe",
     "colourWayId": 204447058,
     "brandName": "Vero Moda Tall",
@@ -1790,28 +1263,14 @@
     "id": 204434638,
     "name": "Vero Moda Maternity wrap mini dress in bright green spot print",
     
-    "price": {
     
-    "current": {
-    "value": 44,
-    "text": "$44.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 44.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Green Spot",
     "colourWayId": 204434640,
     "brandName": "Vero Moda Maternity",
@@ -1838,28 +1297,14 @@
     "id": 204399583,
     "name": "Miss Selfridge poplin oversized utility shirt in black",
     
-    "price": {
     
-    "current": {
-    "value": 48,
-    "text": "$48.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 48.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204399585,
     "brandName": "Miss Selfridge",
@@ -1885,28 +1330,14 @@
     "id": 204316019,
     "name": "Miss Selfridge V neck knit maxi dress in taupe",
     
-    "price": {
     
-    "current": {
-    "value": 60,
-    "text": "$60.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 60.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Taupe",
     "colourWayId": 204316025,
     "brandName": "Miss Selfridge",
@@ -1948,28 +1379,14 @@
     "id": 204316017,
     "name": "Miss Selfridge V neck knit maxi dress in cream",
     
-    "price": {
     
-    "current": {
-    "value": 60,
-    "text": "$60.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 60.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "CREAM",
     "colourWayId": 204316020,
     "brandName": "Miss Selfridge",
@@ -2011,28 +1428,13 @@
     "id": 204280420,
     "name": "MetaTrends Weekend Collective denim jacket in mid blue",
     
-    "price": {
     
-    "current": {
-    "value": 63.9,
-    "text": "$63.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 63.9,   
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Mid blue wash",
     "colourWayId": 204280422,
     "brandName": "MetaTrends WEEKEND COLLECTIVE",
@@ -2058,28 +1460,14 @@
     "id": 204280402,
     "name": "MetaTrends Weekend Collective jean in laser print",
     
-    "price": {
     
-    "current": {
-    "value": 53.96,
-    "text": "$53.96"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 53.9,
+  
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "BLUE LASER PRINT",
     "colourWayId": 204280403,
     "brandName": "MetaTrends WEEKEND COLLECTIVE",
@@ -2106,28 +1494,14 @@
     "id": 204258325,
     "name": "MetaTrends DESIGN rib tank top with embroidered license ford graphic in white",
     
-    "price": {
     
-    "current": {
-    "value": 29,
-    "text": "$29.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 29.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "WHITE",
     "colourWayId": 204258326,
     "brandName": "MetaTrends DESIGN",
@@ -2154,28 +1528,14 @@
     "id": 204258290,
     "name": "MetaTrends DESIGN rib baby tee with blondie license graphic in charcoal",
     
-    "price": {
     
-    "current": {
-    "value": 32,
-    "text": "$32.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 32.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "CHARCOAL",
     "colourWayId": 204258291,
     "brandName": "MetaTrends DESIGN",
@@ -2202,28 +1562,14 @@
     "id": 204258238,
     "name": "Miss Selfridge poplin fitted waist corset shirt dress in black",
     
-    "price": {
     
-    "current": {
-    "value": 53,
-    "text": "$53.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 53.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204258240,
     "brandName": "Miss Selfridge",
@@ -2249,28 +1595,14 @@
     "id": 204196094,
     "name": "MetaTrends DESIGN oversized t-shirt in white",
     
-    "price": {
     
-    "current": {
-    "value": 20,
-    "text": "$20.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 20.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "WHITE",
     "colourWayId": 204196095,
     "brandName": "MetaTrends DESIGN",
@@ -2297,28 +1629,13 @@
     "id": 204169045,
     "name": "MetaTrends DESIGN 5 pack ankle socks with terry sole in black",
     
-    "price": {
     
-    "current": {
-    "value": 17.5,
-    "text": "$17.50"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 17.5,  
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204169046,
     "brandName": "MetaTrends DESIGN",
@@ -2345,28 +1662,14 @@
     "id": 204146563,
     "name": "Pieces ribbed crop top in pink",
     
-    "price": {
     
-    "current": {
-    "value": 35,
-    "text": "$35.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 35.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "PINK",
     "colourWayId": 204146568,
     "brandName": "Pieces",
@@ -2393,28 +1696,14 @@
     "id": 204118088,
     "name": "Noisy May Curve zip up PU jacket in black",
     
-    "price": {
     
-    "current": {
-    "value": 90,
-    "text": "$90.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 90.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204118089,
     "brandName": "Noisy May Curve",
@@ -2440,28 +1729,13 @@
     "id": 204053567,
     "name": "MetaTrends DESIGN ribbed legging shorts in gray heather - part of a set",
     
-    "price": {
     
-    "current": {
-    "value": 14.5,
-    "text": "$14.50"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 14.5,  
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Gray Heather",
     "colourWayId": 204053568,
     "brandName": "MetaTrends DESIGN",
@@ -2487,28 +1761,14 @@
     "id": 203977061,
     "name": "MetaTrends DESIGN crochet twill patched mini shirt dress in black",
     
-    "price": {
     
-    "current": {
-    "value": 69,
-    "text": "$69.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 69.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 203977062,
     "brandName": "MetaTrends DESIGN",
@@ -2534,28 +1794,14 @@
     "id": 203933790,
     "name": "Miss Selfridge textured chiffon long sleeve maxi dress in black",
     
-    "price": {
     
-    "current": {
-    "value": 79,
-    "text": "$79.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 79.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 203933792,
     "brandName": "Miss Selfridge",
@@ -2581,28 +1827,14 @@
     "id": 203755612,
     "name": "MetaTrends DESIGN Tall floral jacquard burnout pleated midi dress with ruffle neck and open back in dark green",
     
-    "price": {
     
-    "current": {
-    "value": 80,
-    "text": "$80.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 80.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "DARK GREEN",
     "colourWayId": 203755613,
     "brandName": "MetaTrends Tall",
@@ -2629,28 +1861,14 @@
     "id": 203562472,
     "name": "MetaTrends DESIGN floral jacquard pleated midi dress with ruffle neck and open back in deep blue",
     
-    "price": {
     
-    "current": {
-    "value": 80,
-    "text": "$80.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 80.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Deep blue",
     "colourWayId": 203562481,
     "brandName": "MetaTrends DESIGN",
@@ -2677,28 +1895,14 @@
     "id": 203540228,
     "name": "MetaTrends DESIGN Fuller bust twist front pleated cami midi dress with belt in navy",
     
-    "price": {
     
-    "current": {
-    "value": 55,
-    "text": "$55.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 55.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "NAVY",
     "colourWayId": 203540229,
     "brandName": "MetaTrends DESIGN",
@@ -2724,28 +1928,14 @@
     "id": 203488826,
     "name": "MetaTrends DESIGN textured sleeveless midi dress with cut out and open back in green",
     
-    "price": {
     
-    "current": {
-    "value": 71,
-    "text": "$71.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 71.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "GREEN",
     "colourWayId": 203488827,
     "brandName": "MetaTrends DESIGN",
@@ -2771,28 +1961,14 @@
     "id": 203487622,
     "name": "MetaTrends DESIGN Curve keyhole mini dress with buttons in purple butterfly print",
     
-    "price": {
     
-    "current": {
-    "value": 40,
-    "text": "$40.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 40.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Butterfly print",
     "colourWayId": 203487623,
     "brandName": "MetaTrends Curve",
@@ -2819,28 +1995,13 @@
     "id": 203396899,
     "name": "COLLUSION x001 Plus size skinny jean in blue",
     
-    "price": {
     
-    "current": {
-    "value": 31.9,
-    "text": "$31.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 31.9,   
+  
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
     "colour": "MID BLUE",
     "colourWayId": 203396905,
     "brandName": "Collusion",
@@ -2866,28 +2027,14 @@
     "id": 203378993,
     "name": "Miss Selfridge Petite cigarette pants in black",
     
-    "price": {
     
-    "current": {
-    "value": 40,
-    "text": "$40.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 40.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 203379003,
     "brandName": "Miss Selfridge",
@@ -2913,28 +2060,13 @@
     "id": 203225557,
     "name": "COLLUSION long sleeve t-shirt in black",
     
-    "price": {
     
-    "current": {
-    "value": 13.9,
-    "text": "$13.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 13.9,  
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 203225564,
     "brandName": "Collusion",
@@ -2961,28 +2093,14 @@
     "id": 202994811,
     "name": "Miss Selfridge check cigarette pants in blue - part of a set",
     
-    "price": {
     
-    "current": {
-    "value": 56,
-    "text": "$56.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 56.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "BLUE",
     "colourWayId": 202994819,
     "brandName": "Miss Selfridge",
@@ -3008,28 +2126,14 @@
     "id": 202934944,
     "name": "MetaTrends DESIGN pintuck lace mini dress in dusky lilac",
     
-    "price": {
     
-    "current": {
-    "value": 64,
-    "text": "$64.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 64.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Dusky lilac",
     "colourWayId": 202934964,
     "brandName": "MetaTrends DESIGN",
@@ -3055,28 +2159,14 @@
     "id": 202729076,
     "name": "Miss Selfridge faux leather diamante buckle kilt in black",
     
-    "price": {
     
-    "current": {
-    "value": 48,
-    "text": "$48.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 48.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 202729077,
     "brandName": "Miss Selfridge",
@@ -3103,28 +2193,13 @@
     "id": 204342764,
     "name": "COLLUSION Plus lizard printed T-shirt with mesh sleeves in multi",
     
-    "price": {
     
-    "current": {
-    "value": 39.9,
-    "text": "$39.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 39.9,   
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Multi",
     "colourWayId": 204342765,
     "brandName": "Collusion",
@@ -3151,28 +2226,13 @@
     "id": 204326636,
     "name": "COLLUSION wide leg sweatpants in lime",
     
-    "price": {
     
-    "current": {
-    "value": 39.9,
-    "text": "$39.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 39.9,   
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "LIGHT GREEN",
     "colourWayId": 204326647,
     "brandName": "Collusion",
@@ -3199,28 +2259,13 @@
     "id": 204326589,
     "name": "COLLUSION teddy print oversized t-shirt in white",
     
-    "price": {
     
-    "current": {
-    "value": 26.9,
-    "text": "$26.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 26.9,  
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "WHITE",
     "colourWayId": 204326596,
     "brandName": "Collusion",
@@ -3247,28 +2292,14 @@
     "id": 204313610,
     "name": "MetaTrends DESIGN long sleeve maxi sweat dress in black",
     
-    "price": {
     
-    "current": {
-    "value": 50,
-    "text": "$50.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 50.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204313620,
     "brandName": "MetaTrends DESIGN",
@@ -3294,28 +2325,13 @@
     "id": 204306491,
     "name": "COLLUSION slinky legging flare in black",
     
-    "price": {
     
-    "current": {
-    "value": 26.9,
-    "text": "$26.90"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
     
-    "rrp": {
+    "price": 26.9, 
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "Black",
     "colourWayId": 204306499,
     "brandName": "Collusion",
@@ -3342,28 +2358,14 @@
     "id": 204291843,
     "name": "River Island geometric print beach pants in light green - part of a set",
     
-    "price": {
     
-    "current": {
-    "value": 65,
-    "text": "$65.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 65.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "GREEN - LIGHT",
     "colourWayId": 204291844,
     "brandName": "River Island",
@@ -3389,28 +2391,14 @@
     "id": 204291838,
     "name": "River Island geometric print beach crop top in light green - part of a set",
     
-    "price": {
     
-    "current": {
-    "value": 55,
-    "text": "$55.00"
-    },
     
-    "previous": {
     
-    "value": null,
-    "text": ""
-    },
+  
+    "price": 55.0,
     
-    "rrp": {
     
-    "value": null,
-    "text": ""
-    },
-    "isMarkedDown": false,
-    "isOutletPrice": false,
-    "currency": "USD"
-    },
+    
     "colour": "GREEN - LIGHT",
     "colourWayId": 204291839,
     "brandName": "River Island",
@@ -3439,28 +2427,14 @@
         "id": 202871477,
         "name": "MetaTrends DESIGN tapered cargo pants in heavy wash brown with contrast stitching",
         
-        "price": {
         
-        "current": {
-        "value": 57,
-        "text": "$57.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 57.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Brown",
         "colourWayId": 202871479,
         "brandName": "MetaTrends DESIGN",
@@ -3487,28 +2461,14 @@
         "id": 204316918,
         "name": "Topman 3 pack trunks in black and palm print with black waistbands",
         
-        "price": {
         
-        "current": {
-        "value": 34,
-        "text": "$34.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 34.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Multi",
         "colourWayId": 204316919,
         "brandName": "Topman",
@@ -3535,28 +2495,13 @@
         "id": 203858044,
         "name": "Levi's denim trucker jacket in midwash blue",
         
-        "price": {
         
-        "current": {
-        "value": 108,
-        "text": "$108.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 108.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "BLUE",
         "colourWayId": 203858068,
         "brandName": "Levi's",
@@ -3583,28 +2528,13 @@
         "id": 203779846,
         "name": "Columbia Ski Timberturner II ski jacket in brown and yellow",
         
-        "price": {
         
-        "current": {
-        "value": 179.99,
-        "text": "$179.99"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 179.9,     
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Brown",
         "colourWayId": 203779909,
         "brandName": "Columbia",
@@ -3631,28 +2561,14 @@
         "id": 203482615,
         "name": "MetaTrends DESIGN super oversized hoodie in black & beige 2 pack",
         
-        "price": {
         
-        "current": {
-        "value": 60,
-        "text": "$60.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 60.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black/cobblestone",
         "colourWayId": 203482700,
         "brandName": "MetaTrends DESIGN",
@@ -3679,28 +2595,14 @@
         "id": 203949384,
         "name": "Jack & Jones Intelligence loose fit cargo pants in beige",
         
-        "price": {
         
-        "current": {
-        "value": 54,
-        "text": "$54.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 54.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Oxford tan",
         "colourWayId": 203949394,
         "brandName": "Jack & Jones",
@@ -3747,28 +2649,14 @@
         "id": 203944090,
         "name": "Jack & Jones Intelligence Kane loose fit chino in black",
         
-        "price": {
         
-        "current": {
-        "value": 39,
-        "text": "$39.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 39.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203944092,
         "brandName": "Jack & Jones",
@@ -3795,28 +2683,14 @@
         "id": 203949597,
         "name": "Jack & Jones Intelligence slim fit technical nylon pants in black",
         
-        "price": {
         
-        "current": {
-        "value": 54,
-        "text": "$54.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 54.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203949612,
         "brandName": "Jack & Jones",
@@ -3843,28 +2717,14 @@
         "id": 203943908,
         "name": "Jack & Jones Intelligence cargo short in brown",
         
-        "price": {
         
-        "current": {
-        "value": 47,
-        "text": "$47.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 47.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Falcon",
         "colourWayId": 203943918,
         "brandName": "Jack & Jones",
@@ -3891,28 +2751,13 @@
         "id": 204035181,
         "name": "Reclaimed Vintage zip up knitted sweater with distressing in black",
         
-        "price": {
         
-        "current": {
-        "value": 62.9,
-        "text": "$62.90"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 62.9,      
+      
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
         "colour": "Black",
         "colourWayId": 204035182,
         "brandName": "Reclaimed Vintage",
@@ -3939,28 +2784,13 @@
         "id": 203382800,
         "name": "Jack & Jones Originals oversized t-shirt with peace print in lilac",
         
-        "price": {
         
-        "current": {
-        "value": 26.5,
-        "text": "$26.50"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 26.5,       
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Lilac",
         "colourWayId": 203382801,
         "brandName": "Jack & Jones",
@@ -3987,28 +2817,13 @@
         "id": 135414,
         "name": "Topman skinny wool mix warm handle suit in brown",
         
-        "price": {
         
-        "current": {
-        "value": 297,
-        "text": "$297.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 297.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Brown",
         "colourWayId": 0,
         "brandName": "Topman",
@@ -4034,28 +2849,13 @@
         "id": 204713191,
         "name": "Bershka oversized tonal print T-shirt in stone",
         
-        "price": {
         
-        "current": {
-        "value": 22.9,
-        "text": "$22.90"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 22.9,      
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
         "colour": "TAN",
         "colourWayId": 204713198,
         "brandName": "Bershka",
@@ -4082,28 +2882,14 @@
         "id": 204168832,
         "name": "New Look cord straight fit cargos in khaki",
         
-        "price": {
         
-        "current": {
-        "value": 56,
-        "text": "$56.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 56.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Dark Khaki",
         "colourWayId": 204168836,
         "brandName": "New Look",
@@ -4130,28 +2916,14 @@
         "id": 204162467,
         "name": "Topman oversized diamond jacquard cardigan in orange",
         
-        "price": {
         
-        "current": {
-        "value": 77,
-        "text": "$77.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 77.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Multi",
         "colourWayId": 204162476,
         "brandName": "Topman",
@@ -4178,28 +2950,14 @@
         "id": 204131273,
         "name": "New Look skinny pinstripe smart pants in gray",
         
-        "price": {
         
-        "current": {
-        "value": 47,
-        "text": "$47.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 47.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Gray",
         "colourWayId": 204131274,
         "brandName": "New Look",
@@ -4226,28 +2984,14 @@
         "id": 203996804,
         "name": "Jack & Jones Core cargo sweatpants in dark gray",
         
-        "price": {
         
-        "current": {
-        "value": 55,
-        "text": "$55.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 55.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Asphalt",
         "colourWayId": 203996830,
         "brandName": "Jack & Jones",
@@ -4302,28 +3046,14 @@
         "id": 203996441,
         "name": "Jack & Jones Intelligence tapered cargo pants in black",
         
-        "price": {
         
-        "current": {
-        "value": 77,
-        "text": "$77.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 77.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203996466,
         "brandName": "Jack & Jones",
@@ -4374,28 +3104,14 @@
         "id": 203902869,
         "name": "Topman short sleeve premium satin shirt in black",
         
-        "price": {
         
-        "current": {
-        "value": 58,
-        "text": "$58.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 58.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203902885,
         "brandName": "Topman",
@@ -4446,28 +3162,14 @@
         "id": 203868188,
         "name": "Topman straight plisse sweatpants in stone",
         
-        "price": {
         
-        "current": {
-        "value": 62,
-        "text": "$62.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 62.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "NEUTRAL",
         "colourWayId": 203868190,
         "brandName": "Topman",
@@ -4494,28 +3196,14 @@
         "id": 203866511,
         "name": "Topman stretch denim shirt in mid wash",
         
-        "price": {
         
-        "current": {
-        "value": 58,
-        "text": "$58.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 58.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Mid Wash",
         "colourWayId": 203866512,
         "brandName": "Topman",
@@ -4558,28 +3246,14 @@
         "id": 203866503,
         "name": "Topman stretch denim shirt in bleach wash",
         
-        "price": {
         
-        "current": {
-        "value": 58,
-        "text": "$58.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 58.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Bleach wash",
         "colourWayId": 203866504,
         "brandName": "Topman",
@@ -4622,28 +3296,13 @@
         "id": 203648957,
         "name": "AAPE By A Bathing Ape moonface hoodie in black",
         
-        "price": {
         
-        "current": {
-        "value": 145,
-        "text": "$145.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 145.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203648971,
         "brandName": "AAPE BY A BATHING APE®",
@@ -4670,28 +3329,13 @@
         "id": 203648942,
         "name": "AAPE By A Bathing Ape now boa fleece hoodie in green",
         
-        "price": {
         
-        "current": {
-        "value": 145,
-        "text": "$145.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 145.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "GREEN",
         "colourWayId": 203648948,
         "brandName": "AAPE BY A BATHING APE®",
@@ -4718,28 +3362,14 @@
         "id": 203648878,
         "name": "AAPE By A Bathing Ape logo t-shirt in black",
         
-        "price": {
         
-        "current": {
-        "value": 69,
-        "text": "$69.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 69.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203648887,
         "brandName": "AAPE BY A BATHING APE®",
@@ -4766,28 +3396,13 @@
         "id": 203648794,
         "name": "AAPE By A Bathing Ape hollywood jacket in blue",
         
-        "price": {
         
-        "current": {
-        "value": 255,
-        "text": "$255.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 255.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "BLUE",
         "colourWayId": 203648816,
         "brandName": "AAPE BY A BATHING APE®",
@@ -4814,28 +3429,13 @@
         "id": 203648788,
         "name": "AAPE By A Bathing Ape hollywood jeans in blue",
         
-        "price": {
         
-        "current": {
-        "value": 209,
-        "text": "$209.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 209.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "BLUE",
         "colourWayId": 203648802,
         "brandName": "AAPE BY A BATHING APE®",
@@ -4862,28 +3462,14 @@
         "id": 203648764,
         "name": "AAPE By A Bathing Ape team t-shirt in black",
         
-        "price": {
         
-        "current": {
-        "value": 75,
-        "text": "$75.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 75.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203648774,
         "brandName": "AAPE BY A BATHING APE®",
@@ -4910,28 +3496,13 @@
         "id": 203648752,
         "name": "AAPE By A Bathing Ape hollywood varsity hoodie in black",
         
-        "price": {
         
-        "current": {
-        "value": 195,
-        "text": "$195.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 195.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203648767,
         "brandName": "AAPE BY A BATHING APE®",
@@ -4958,28 +3529,14 @@
         "id": 203648745,
         "name": "AAPE By A Bathing Ape team t-shirt in white",
         
-        "price": {
         
-        "current": {
-        "value": 75,
-        "text": "$75.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 75.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "WHITE",
         "colourWayId": 203648755,
         "brandName": "AAPE BY A BATHING APE®",
@@ -5006,28 +3563,14 @@
         "id": 203648667,
         "name": "AAPE By A Bathing Ape team t-shirt in blue",
         
-        "price": {
         
-        "current": {
-        "value": 75,
-        "text": "$75.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 75.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "BLUE",
         "colourWayId": 203648687,
         "brandName": "AAPE BY A BATHING APE®",
@@ -5054,28 +3597,13 @@
         "id": 203648645,
         "name": "AAPE By A Bathing Ape rolling loud galaxy varsity hoodie in black",
         
-        "price": {
         
-        "current": {
-        "value": 239,
-        "text": "$239.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 239.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203648647,
         "brandName": "AAPE BY A BATHING APE®",
@@ -5102,28 +3630,13 @@
         "id": 203648634,
         "name": "AAPE By A Bathing Ape team jacquard jacket in black",
         
-        "price": {
         
-        "current": {
-        "value": 319,
-        "text": "$319.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 319.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203648659,
         "brandName": "AAPE BY A BATHING APE®",
@@ -5150,28 +3663,13 @@
         "id": 203648554,
         "name": "AAPE By A Bathing Ape now sweatshirt in black",
         
-        "price": {
         
-        "current": {
-        "value": 115,
-        "text": "$115.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 115.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203648557,
         "brandName": "AAPE BY A BATHING APE®",
@@ -5198,28 +3696,14 @@
         "id": 203648540,
         "name": "AAPE By A Bathing Ape team t-shirt in white",
         
-        "price": {
         
-        "current": {
-        "value": 75,
-        "text": "$75.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 75.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "WHITE",
         "colourWayId": 203648544,
         "brandName": "AAPE BY A BATHING APE®",
@@ -5246,28 +3730,14 @@
         "id": 203629659,
         "name": "Topman knitted sweater with stripe in multi",
         
-        "price": {
         
-        "current": {
-        "value": 65,
-        "text": "$65.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 65.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Multi Stripe",
         "colourWayId": 203629668,
         "brandName": "Topman",
@@ -5294,28 +3764,14 @@
         "id": 203629649,
         "name": "Topman knitted boucle cardigan with collegiate badge in ecru",
         
-        "price": {
         
-        "current": {
-        "value": 65,
-        "text": "$65.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 65.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Ecru",
         "colourWayId": 203629652,
         "brandName": "Topman",
@@ -5342,28 +3798,14 @@
         "id": 203537847,
         "name": "Jack & Jones Intelligence Liam skinny fit jeans with abrasions in washed black",
         
-        "price": {
         
-        "current": {
-        "value": 77,
-        "text": "$77.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 77.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black Denim",
         "colourWayId": 203537848,
         "brandName": "Jack & Jones",
@@ -5390,28 +3832,13 @@
         "id": 203536475,
         "name": "Jack & Jones Intelligence Liam skinny fit jeans in gray wash",
         
-        "price": {
         
-        "current": {
-        "value": 59.5,
-        "text": "$59.50"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 59.5,      
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
         "colour": "Gray Denim",
         "colourWayId": 203536478,
         "brandName": "Jack & Jones",
@@ -5438,28 +3865,13 @@
         "id": 203536288,
         "name": "Jack & Jones Intelligence Glenn slim fit jeans with dark blue wash",
         
-        "price": {
         
-        "current": {
-        "value": 59.5,
-        "text": "$59.50"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 59.5,     
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Blue Denim",
         "colourWayId": 203536289,
         "brandName": "Jack & Jones",
@@ -5486,28 +3898,14 @@
         "id": 203535317,
         "name": "Jack & Jones Intelligence Glenn slim fit super stretch jeans with abraisions in mid wash",
         
-        "price": {
         
-        "current": {
-        "value": 77,
-        "text": "$77.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 77.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Blue Denim",
         "colourWayId": 203535318,
         "brandName": "Jack & Jones",
@@ -5534,28 +3932,13 @@
         "id": 203534716,
         "name": "Jack & Jones Intelligence slim fit smart jersey pants in brown check",
         
-        "price": {
         
-        "current": {
-        "value": 51.5,
-        "text": "$51.50"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 51.5,     
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Brown stone",
         "colourWayId": 203534717,
         "brandName": "Jack & Jones",
@@ -5582,28 +3965,13 @@
         "id": 203396962,
         "name": "COLLUSION cargo pants in stone",
         
-        "price": {
         
-        "current": {
-        "value": 45.9,
-        "text": "$45.90"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 45.9,    
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "STONE",
         "colourWayId": 203396965,
         "brandName": "Collusion",
@@ -5650,28 +4018,13 @@
         "id": 203225557,
         "name": "COLLUSION long sleeve t-shirt in black",
         
-        "price": {
         
-        "current": {
-        "value": 13.9,
-        "text": "$13.90"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 13.9,      
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203225564,
         "brandName": "Collusion",
@@ -5698,28 +4051,14 @@
         "id": 202285775,
         "name": "Topman skinny wool mix warm handle suit pants in brown",
         
-        "price": {
         
-        "current": {
-        "value": 93,
-        "text": "$93.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 93.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Brown",
         "colourWayId": 202285785,
         "brandName": "Topman",
@@ -5745,28 +4084,13 @@
         "id": 202285764,
         "name": "Topman skinny two button wool mix warm handle suit jacket in brown",
         
-        "price": {
         
-        "current": {
-        "value": 204,
-        "text": "$204.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 204.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Brown",
         "colourWayId": 202285774,
         "brandName": "Topman",
@@ -5792,28 +4116,14 @@
         "id": 202111912,
         "name": "Topman oversized jersey shorts in gray",
         
-        "price": {
         
-        "current": {
-        "value": 37,
-        "text": "$37.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 37.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Gray",
         "colourWayId": 202111922,
         "brandName": "Topman",
@@ -5864,28 +4174,13 @@
         "id": 140948,
         "name": "MetaTrends DESIGN skinny tuxedo in navy",
         
-        "price": {
         
-        "current": {
-        "value": 143,
-        "text": "$143.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 143.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "NAVY",
         "colourWayId": 0,
         "brandName": "MetaTrends DESIGN",
@@ -5911,28 +4206,13 @@
         "id": 140947,
         "name": "MetaTrends DESIGN skinny tuxedo in black",
         
-        "price": {
         
-        "current": {
-        "value": 143,
-        "text": "$143.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 143.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203457505,
         "brandName": "MetaTrends DESIGN",
@@ -5958,28 +4238,13 @@
         "id": 139540,
         "name": "MetaTrends DESIGN smart set in rust satin",
         
-        "price": {
         
-        "current": {
-        "value": 114,
-        "text": "$114.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 114.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "AUBURN",
         "colourWayId": 0,
         "brandName": "MetaTrends DESIGN",
@@ -6005,28 +4270,13 @@
         "id": 139539,
         "name": "MetaTrends DESIGN smart skinny set in black corduroy",
         
-        "price": {
         
-        "current": {
-        "value": 114,
-        "text": "$114.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 114.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 0,
         "brandName": "MetaTrends DESIGN",
@@ -6052,28 +4302,13 @@
         "id": 139301,
         "name": "MetaTrends DESIGN slim suit in navy",
         
-        "price": {
         
-        "current": {
-        "value": 129,
-        "text": "$129.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 129.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "NAVY",
         "colourWayId": 0,
         "brandName": "MetaTrends DESIGN",
@@ -6099,28 +4334,13 @@
         "id": 204202879,
         "name": "COLLUSION lightweight Renaissance back print hoodie in ecru",
         
-        "price": {
         
-        "current": {
-        "value": 45.9,
-        "text": "$45.90"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 45.9,      
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
         "colour": "ECRU",
         "colourWayId": 204202883,
         "brandName": "Collusion",
@@ -6147,28 +4367,13 @@
         "id": 204142716,
         "name": "COLLUSION Unisex printed exposed seam long sleeve top in multi",
         
-        "price": {
         
-        "current": {
-        "value": 27.9,
-        "text": "$27.90"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 27.9,       
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Multi",
         "colourWayId": 204142717,
         "brandName": "Collusion",
@@ -6195,28 +4400,13 @@
         "id": 204128743,
         "name": "COLLUSION cargo pants with white stitch in olive",
         
-        "price": {
         
-        "current": {
-        "value": 57.9,
-        "text": "$57.90"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 57.9,       
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "MID GREEN",
         "colourWayId": 204128763,
         "brandName": "Collusion",
@@ -6243,28 +4433,13 @@
         "id": 204128699,
         "name": "COLLUSION x015 low rise anti fit utility jeans in indigo",
         
-        "price": {
         
-        "current": {
-        "value": 57.9,
-        "text": "$57.90"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 57.9,       
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "MID BLUE",
         "colourWayId": 204128721,
         "brandName": "Collusion",
@@ -6291,28 +4466,13 @@
         "id": 204051690,
         "name": "COLLUSION pull on pinstripe tailored pants in brown",
         
-        "price": {
         
-        "current": {
-        "value": 48.9,
-        "text": "$48.90"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 48.9,       
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "BROWN",
         "colourWayId": 204051691,
         "brandName": "Collusion",
@@ -6339,28 +4499,14 @@
         "id": 203834750,
         "name": "ADPT wide fit cropped jeans in washed black",
         
-        "price": {
         
-        "current": {
-        "value": 46,
-        "text": "$46.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 46.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black Denim",
         "colourWayId": 203834757,
         "brandName": "ADPT",
@@ -6387,28 +4533,14 @@
         "id": 203458589,
         "name": "MetaTrends DESIGN slim suit jacket in navy",
         
-        "price": {
         
-        "current": {
-        "value": 86,
-        "text": "$86.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 86.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "NAVY",
         "colourWayId": 203458646,
         "brandName": "MetaTrends DESIGN",
@@ -6434,28 +4566,13 @@
         "id": 203458304,
         "name": "MetaTrends DESIGN skinny tuxedo jacket in black",
         
-        "price": {
         
-        "current": {
-        "value": 100,
-        "text": "$100.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 100.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203458383,
         "brandName": "MetaTrends DESIGN",
@@ -6481,28 +4598,13 @@
         "id": 203457710,
         "name": "MetaTrends DESIGN skinny tuxedo jacket in navy",
         
-        "price": {
         
-        "current": {
-        "value": 100,
-        "text": "$100.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 100.0,        
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "NAVY",
         "colourWayId": 203457732,
         "brandName": "MetaTrends DESIGN",
@@ -6528,28 +4630,14 @@
         "id": 203457705,
         "name": "MetaTrends DESIGN skinny tuxedo pants in navy",
         
-        "price": {
         
-        "current": {
-        "value": 43,
-        "text": "$43.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 43.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "NAVY",
         "colourWayId": 203457726,
         "brandName": "MetaTrends DESIGN",
@@ -6575,28 +4663,14 @@
         "id": 203457485,
         "name": "MetaTrends DESIGN skinny tuxedo pants in black",
         
-        "price": {
         
-        "current": {
-        "value": 43,
-        "text": "$43.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 43.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 203457505,
         "brandName": "MetaTrends DESIGN",
@@ -6622,28 +4696,14 @@
         "id": 203457199,
         "name": "MetaTrends DESIGN slim suit vest in navy",
         
-        "price": {
         
-        "current": {
-        "value": 43,
-        "text": "$43.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 43.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "NAVY",
         "colourWayId": 203457228,
         "brandName": "MetaTrends DESIGN",
@@ -6669,28 +4729,14 @@
         "id": 203456835,
         "name": "MetaTrends DESIGN slim suit pants in navy",
         
-        "price": {
         
-        "current": {
-        "value": 43,
-        "text": "$43.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 43.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "NAVY",
         "colourWayId": 203456912,
         "brandName": "MetaTrends DESIGN",
@@ -6716,28 +4762,13 @@
         "id": 203411056,
         "name": "COLLUSION x000 Unisex ultra distressed straight leg jeans in ecru",
         
-        "price": {
         
-        "current": {
-        "value": 62.9,
-        "text": "$62.90"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
         
-        "rrp": {
+        "price": 62.9,      
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "ECRU",
         "colourWayId": 203411061,
         "brandName": "Collusion",
@@ -6764,28 +4795,14 @@
         "id": 202277355,
         "name": "MetaTrends DESIGN smart 80s oversized bomber jacket in rust satin - part of a set",
         
-        "price": {
         
-        "current": {
-        "value": 64,
-        "text": "$64.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 64.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "AUBURN",
         "colourWayId": 202277358,
         "brandName": "MetaTrends DESIGN",
@@ -6811,28 +4828,14 @@
         "id": 202277295,
         "name": "MetaTrends DESIGN smart extreme wide leg pants in rust satin - part of a set",
         
-        "price": {
         
-        "current": {
-        "value": 50,
-        "text": "$50.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 50.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "AUBURN",
         "colourWayId": 202277296,
         "brandName": "MetaTrends DESIGN",
@@ -6858,28 +4861,14 @@
         "id": 202276906,
         "name": "MetaTrends DESIGN dressy bomber jacket in black corduroy - part of a set",
         
-        "price": {
         
-        "current": {
-        "value": 64,
-        "text": "$64.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 64.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 202277001,
         "brandName": "MetaTrends DESIGN",
@@ -6905,28 +4894,14 @@
         "id": 202276877,
         "name": "MetaTrends DESIGN smart skinny pants in black corduroy - pàrt of a set",
         
-        "price": {
         
-        "current": {
-        "value": 50,
-        "text": "$50.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 50.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Black",
         "colourWayId": 202276904,
         "brandName": "MetaTrends DESIGN",
@@ -6952,28 +4927,14 @@
         "id": 204499772,
         "name": "Weekday tan printed swim shorts in multi",
         
-        "price": {
         
-        "current": {
-        "value": 33,
-        "text": "$33.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 33.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+        
         "colour": "Multi",
         "colourWayId": 204499773,
         "brandName": "Weekday",
@@ -7000,28 +4961,14 @@
         "id": 204428707,
         "name": "weekday lesley velvet jersey shirt in black",
         
-        "price": {
         
-        "current": {
-        "value": 80,
-        "text": "$80.00"
-        },
         
-        "previous": {
         
-        "value": null,
-        "text": ""
-        },
+      
+        "price": 80.0,
         
-        "rrp": {
         
-        "value": null,
-        "text": ""
-        },
-        "isMarkedDown": false,
-        "isOutletPrice": false,
-        "currency": "USD"
-        },
+
         "colour": "Black",
         "colourWayId": 204428709,
         "brandName": "Weekday",

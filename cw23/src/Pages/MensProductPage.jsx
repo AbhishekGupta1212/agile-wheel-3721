@@ -4,7 +4,7 @@ import axios from 'axios'
 import Navbar from "../Components/Navbar";
 import Footer from "../Components/Footer";
 import Render from "../Utils/Render";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 const initialState = {
     data: [],
@@ -69,14 +69,14 @@ function Mens(){
         <div id="MensProductsMain">
           <Navbar/>
          <Grid templateColumns='repeat(4,1fr)' gap={6} m={'auto'}>
-             
+             {/*  */}
              {data.map((el)=>(
-              <div key={el.id} onClick={()=>handleClick(el.id)}>
+              <div key={el.id} onClick={()=>handleClick(el.id)} >
                  <Render
  imageUrl={el.imageUrl}
  name={el.name}
- price={el.price.current.text}
- />
+ price= {'$'+el.price}
+ /> 
               </div>
 
            

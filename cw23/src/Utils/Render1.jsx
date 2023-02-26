@@ -5,7 +5,7 @@ function Render({imageUrl,name,price,text,id,colour}){
   
 return (
   <div>
-    <RouterLink to={'WomensProductPage/${id}'}>
+    <RouterLink to={'MensProductPage/${id}'}>
   <GridItem >
     <Image src={imageUrl} boxSize='85%' margin={'auto'}/>
         <Text fontSize={'12px'} fontFamily='futura-pt,FuturaStd,Helvetica,Arial,sans-serif'lineHeight={'20px'} mb='2px' mt='2px'>{name}</Text>

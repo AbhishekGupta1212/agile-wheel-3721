@@ -6,22 +6,33 @@ import MensLandingPage from './MensLandingPage'
 import Cart from "./Cart";
 import Womens from "./WomensProductPage";
 import Mens from "./MensProductPage";
-import SingleProduct from "./SingleProduct";
+import MSingleProduct from "./MensSingleProduct";
+import Login from "./Login";
+import Signup from "./Signup";
+import WSingleProduct from "./WomensSingleProduct";
+import Admin from "./AdminPanel";
+import OrderSuccess from "./OrderSuccess";
+// import Cart from "./Cart";
 
 function AllRoutes(){
     return (
         <div>
             <Routes>
                
-                 <Route path="/" element={<Homepage/>}/>
+                <Route path="/" element={<Homepage/>}/>
                 <Route path="/WomensLandingPage" element={<WomensLandingPage/>}/>
                 <Route path="/MensLandingPage" element={<MensLandingPage/>}/>
-                <Route path='/SingleProduct/:id' element={<SingleProduct/>}/>
+                <Route path='/MensProductPage/:id' element={<MSingleProduct/>}/>
+                <Route path='/WomensProductPage/:id' element={<WSingleProduct/>}/>
                 <Route path="/Cart" element={<Cart/>}/>
                 <Route path="/WomensProductPage" element={<Womens/>}/>
                 <Route path="/MensProductPage" element={<Mens/>}/>
+                <Route path="/Login" element={<Login/>}/>
+                <Route path="/SignUp" element={<Signup/>}/>
+                <Route path='/Login/Admin' element={<Admin/>}/>
+                <Route path='/OrderPlaced' element={<OrderSuccess/>}></Route>
                
-            </Routes> */
+            </Routes> 
           
 
            

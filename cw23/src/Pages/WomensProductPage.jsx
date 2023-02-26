@@ -39,10 +39,10 @@ const initialState = {
      
 
 
-function Womens(){
+function Womens(id){
  
   const navigate=useNavigate()
-  const handleClick=(id,gender)=>navigate(`/WomensProduct/${id}`)
+  const handleClick=(id)=>navigate(`/WomensProductPage/${id}`)
 
     const [state,dispatch]=useReducer(reducer,initialState)
     const{data}=state
@@ -56,7 +56,6 @@ function Womens(){
         console.log(res)
       }).catch((err)=>
         dispatch({type:"Failed",payload:err.message})
-        // console.log(err)
       )
     }
     useEffect(()=>{
@@ -70,12 +69,17 @@ function Womens(){
            <Grid templateColumns='repeat(4,1fr)' gap={6} m={'auto'}>
              
                 {data.map((el)=>(
+                  
                   <div key={el.id} onClick={()=>handleClick(el.id)}>
+
                      <Render
+                     id={el.id}
+                     color={el.colour}
     imageUrl={el.imageUrl}
     name={el.name}
-    price={el.price.current.text}
+    price={'$'+el.price}
     />
+   
                   </div>
                 ))}
                 </Grid>

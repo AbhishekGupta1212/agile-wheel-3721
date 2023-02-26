@@ -1,17 +1,9 @@
-import { Box, Button, Flex , useColorModeValue,IconButton,Image, Circle, Spacer, Menu, MenuList, MenuItem, } from '@chakra-ui/react'
+import { Box, Button, Flex , useColorModeValue,IconButton,Image, Circle, Spacer, Menu, MenuList, MenuItem,Text } from '@chakra-ui/react'
 import { Link } from 'react-router-dom';
 import Search from './Search';
 import { useDisclosure } from '@chakra-ui/react';
 import DropDown from '../Utils/DropDownMenu';
-
-function Navbar(){
-//     const handleClick=()=>{ 
-//    <DropDown/>
- 
-
-//     console.log("clicked")
-//     }
-               
+function Navbar(){          
     return (
         <div id='Navbar'>
             <div className="Navbar-top">
@@ -71,38 +63,53 @@ px={{ base: 4 }}>
 </Link>
 
 
-
 <Search/>
 
-{/* <Spacer/> */}
-{/* <Menu> */}
-    <Box mr={'10px'} ml={'25px'}>
-    <IconButton bg={'#2d2d2d'} variant='unstyled' 
-       onMouseEnter={<DropDown/>}     ><Image src={process.env.PUBLIC_URL +'/Images/user.png'} boxSize='20px' /></IconButton>
-
-{/* <MenuList>
-    <MenuItem>1</MenuItem>
-    <MenuItem>2</MenuItem>
-    <MenuItem>3</MenuItem>
-    <MenuItem>4</MenuItem>
-</MenuList> */}
-
-</Box>
-{/* </Menu> */}
+    <DropDown/>
 
 <Box mr={'10px'}>
     <IconButton bg={'#2d2d2d'} variant='unstyled'><Image src={process.env.PUBLIC_URL +'/Images/love.png'} boxSize='20px'/></IconButton>
 </Box>
+<Link to={'/Cart'}>
 <Box>
     <IconButton bg={'#2d2d2d'} variant='unstyled'><Image src={process.env.PUBLIC_URL +'/Images/shopping-bag.png'} boxSize='20px'/></IconButton>
 </Box>
+</Link>
+
 
 
         </Flex>
     </Box>
 </div>
+{/* Offers section */}
 <div>
-    <h1>OFFERS</h1>
+
+    <Box m={'auto'} bg='#9cf0e0'px={'10px'} py='5px' fontSize='10px' fontFamily={'Futura-pt,Futura STD,Arial,Verdana,sans-serif'} letterSpacing='2px'>
+        
+       
+        <Flex 
+h='40px'
+width={'100%'}
+justifyContent='space-between'
+px={{base:4}}
+margin='auto'
+align={'center'}
+>
+    <Link to={'/WomensProductPage'}>
+ <Button bg={'#9cf0e0'}variant='unstyled' border='2px solid black' borderRadius={'none'} fontSize='12px' p={'0px'} w='80px' h='25px'>WOMEN</Button>
+    </Link>
+    
+        <strong >UPTO 30% OFF OUTLET ICONS!
+            <br />
+        Surprise Discount Unlocked
+        <br />
+        With Code:SURPRISE</strong>
+        <Link to={'/MensProductPage'}>
+           <Button bg={'#9cf0e0'} variant='unstyled' border='2px solid black' borderRadius={'none'} fontSize='12px' p={'0px'} h='25px' w='80px'>MEN</Button>
+        </Link>
+    
+         </Flex>
+    </Box>
 </div>
  </div>
     )
